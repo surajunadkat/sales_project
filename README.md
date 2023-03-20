@@ -1,2 +1,2 @@
 # sales_project
-A sales dataset that I recently used for data analysis on SQL
+I cleaned and analyzed this sales dataset on SQL Server 2019.
